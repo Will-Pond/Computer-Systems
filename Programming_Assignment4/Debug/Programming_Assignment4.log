@@ -1,0 +1,4 @@
+﻿  Programming_Assignment4.c
+C:\Users\wpond\source\repos\Programming_Assignment4\Programming_Assignment4.c(40,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\wpond\source\repos\Programming_Assignment4\Programming_Assignment4.c(150,28): warning C4047: '<': 'int' differs in levels of indirection from 'char *'
+  Programming_Assignment4.vcxproj -> C:\Users\wpond\source\repos\Programming_Assignment4\Debug\Programming_Assignment4.exe

@@ -1,0 +1,3 @@
+char path[] = " R  R  R  SSSSS   R  R CCCC  R   R   CCCCCCCCCC  R  SSSS  R ";
+
+
