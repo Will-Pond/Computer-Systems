@@ -1,0 +1,13 @@
+ution is efine s "inferene to the est explntion," 
+ tsk of generting n explntion to ount for the 
+pperne of  given set of finings or t [].  Within 
+the ontext of hnwritten hrter reognition, the tsk 
+is one of hpothesiing the hrters (or smols/wors) 
+responsile for the fetures foun in snne itmps; 
+the tsk ttempts to fin the est olletion of hrters to 
+explin these fetures.  ution hs previousl een 
+pplie to  wie rnge of interprettion prolems inluing 
+speeh reognition [], ignosis [, , ], meil test 
+interprettion [], stor unerstning [], nturl 
+lnguge unerstning [, ], theor formtion n legl 
+resoning [].
