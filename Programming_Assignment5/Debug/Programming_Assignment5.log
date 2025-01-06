@@ -1,0 +1,4 @@
+﻿  Programming_Assignment5.c
+C:\Users\wpond\source\repos\Programming_Assignment5\Programming_Assignment5.c(48,5): warning C4102: 'if1': unreferenced label
+C:\Users\wpond\source\repos\Programming_Assignment5\Programming_Assignment5.c(69,5): warning C4102: 'if2': unreferenced label
+  Programming_Assignment5.vcxproj -> C:\Users\wpond\source\repos\Programming_Assignment5\Debug\Programming_Assignment5.exe
