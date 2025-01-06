@@ -1,0 +1,6 @@
+﻿  Programming_Assignment7.c
+C:\Users\wpond\source\repos\Programming_Assignment7\Programming_Assignment7.c(43,5): warning C4013: 'foo' undefined; assuming extern returning int
+C:\Users\wpond\source\repos\Programming_Assignment7\Programming_Assignment7.c(48,9): warning C4013: 'bar' undefined; assuming extern returning int
+C:\Users\wpond\source\repos\Programming_Assignment7\Programming_Assignment7.c(56,14): warning C4013: 'last' undefined; assuming extern returning int
+C:\Users\wpond\source\repos\Programming_Assignment7\Programming_Assignment7.c(50): warning C4716: 'foo': must return a value
+  Programming_Assignment7.vcxproj -> C:\Users\wpond\source\repos\Programming_Assignment7\Debug\Programming_Assignment7.exe
