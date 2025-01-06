@@ -1,0 +1,11 @@
+﻿  Programming_Assignment3.c
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(37,39): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(59,18): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(61,19): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(66,16): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(68,16): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(70,15): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(82,24): warning C4133: '=': incompatible types - from 'char *' to 'int *'
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(84,20): warning C4133: '=': incompatible types - from 'char *' to 'int *'
+C:\Users\wpond\source\repos\Programing_Assignment3\Programming_Assignment3.c(151,18): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+  Programing_Assignment3.vcxproj -> C:\Users\wpond\source\repos\Programing_Assignment3\Debug\Programing_Assignment3.exe
